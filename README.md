@@ -1,8 +1,7 @@
 # task1
-TASK 1 OF DATA ANALYSIS INTERNSHIP WITH ELEVATE LABS
 
-Collected a dataset named netflix_titles from an online website, 'Kaggle', as directed in the pdf.
-Used python to accomplish the tasks.
+Collected a dataset named netflix_titles from an online website, 'Kaggle'.
+
 Python codes:
 Used the pandas library for data cleaning.
 Checked whether there are any missing values, and obtained the total no. of missing values in the dataset. There was 4307 missing values in the dataset.
